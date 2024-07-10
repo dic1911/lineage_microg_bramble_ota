@@ -3,5 +3,5 @@
 ====================
 
 - Jun. security patch
-- Update KernelSU to 1.0.0
+- Update KernelSU to 0.9.5
 

@@ -1,4 +1,13 @@
 {
   "response": [
+    {
+      "datetime": 1723534863,
+      "filename": "lineage-bramble-20240813_signed-ota.zip",
+      "id": "7d4baaf1572784721a581f0e62f54b2d",
+      "romtype": "unofficial",
+      "size": 1201540665,
+      "url": "https://github.com/dic1911/lineage_microg_bramble_ota/releases/download/20240813/lineage-bramble-20240813_signed-ota-full.zip",
+      "version": "21.0"
+    }
   ]
 }

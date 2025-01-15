@@ -1,0 +1,9 @@
+====================
+     2025-01-15
+====================
+
+- Jan. security patch
+- Switch to Cromite for System WebView
+- Switch to KernelSU Next
+- Add susfs support
+
